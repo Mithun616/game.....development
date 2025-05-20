@@ -65,3 +65,9 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+![Screenshot 2025-05-20 143644](https://github.com/user-attachments/assets/0e8d5790-8422-49d0-b8ee-1fc8797dd2cb)
+![Screenshot 2025-05-20 143716](https://github.com/user-attachments/assets/f91e192e-8e5b-45b8-9cc3-dec4b24b5be5)
+
+## RESULT
+Thus, motion tweening, shape tweening, guide layer animation, and masking were successfully implemented using Flash.
